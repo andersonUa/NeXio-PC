@@ -40,3 +40,18 @@ Create a beautiful and practical PC building application for gamers and professi
 ---
 
 NeXio © Digital Innovation
+---
+
+# Application Screenshots
+
+## Hardware Database
+![Hardware Database](photo_2026-06-19_15-39-58.jpg)
+
+## CPU & GPU Selection
+![CPU & GPU Selection](2.jpg)
+
+## Performance Modes
+![Performance Modes](3.jpg)
+
+## PC Build Analysis
+![PC Build Analysis](4.jpg)
